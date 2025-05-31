@@ -54,31 +54,32 @@ _Aman, kekinian, dan cocok banget buat belajar coding + keamanan data!_ 💥🛡
        cd whatsapp-encryption-simulator
 ---
 
-## 🛡️ Disclaimer
-This tool is intended for educational and personal offline use only.
-Always verify and test your wallets before storing real funds.
-The author is not responsible for any loss of funds.
+# 🛡️ Disclaimer
+This tool is strictly for educational and personal offline use only.  
+The author takes no responsibility if kamu *nyasar* pakai buat hal-hal ilegal ya, bro!
 
 ---
 
-## ⭐️ Support the Project
+# Sekali lagi gw WARNING loe yang masih terlintas aneh aneh ya
 
 ---
 
-<p align="center"> Made with 💻 + ☕ by <b>Kongali1720</b> </p>
-
----
-If this project helps you, give it a star ⭐ and share it with others.
-Follow @kongali1720 for more open-source crypto tools 🔥
-
+# ⚠️ **PERINGATAN:**  
+Semua aktivitas yang melanggar pasal-pasal di atas dapat dikenakan sanksi pidana sesuai UU ITE.  
+Jadi, gunakan ilmu ini untuk edukasi dan hal positif, jangan sampai berurusan dengan hukum, ya!
 ---
 
 ## ✅ Gaspol coding squad Indonesia! 🚀💻
 
 Halo, Sobat Koding!  
+
 Kumpulan mini project Python yang gak bikin ngantuk!  
+
 Belajar sambil praktek langsung, cocok buat yang suka action daripada teori.  
+
 Langsung eksekusi, langsung paham.
+
+Jangan pernah ada niat loe sama hal - hal yang berbau kegiatan ngoding Illegal ya!
 
 ---
 
@@ -142,3 +143,15 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/PayPal_logo.svg/100px-PayPal_logo.svg.png" alt="PayPal" style="max-height: 100%; max-width: 120px;" />
   </div>
 </p>
+
+---
+
+Kalau project ini bantu kamu, jangan lupa kasih bintang ⭐ dan share ke temen-temen ya!  
+Follow @kongali1720 buat diskusi dan update seru lainnya 🔥
+
+---
+
+If this project helps you, please give it a star ⭐ and share it with others.  
+Follow @kongali1720 for more discussions and updates 🔥
+
+
