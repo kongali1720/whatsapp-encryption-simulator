@@ -47,6 +47,38 @@ _Aman, kekinian, dan cocok banget buat belajar coding + keamanan data!_ 💥🛡
 
 ---
 
+# ⚠️ Legal Note
+
+🚫 Dilarang keras pake ini buat sadap orang.
+
+✅ Gunakan hanya buat belajar, riset, atau simulasi lab.
+
+# Kalo sampe loe pake buat nyadap...
+
+📜 Gue gak tanggung jawab, ya! Hukum tetap hukum. Ini proyek edukasi ✌️
+
+---
+
+🌟 Support & Kontribusi
+
+# ⭐ Kasih bintang kalo loe suka
+
+🔀 Fork, modif, pull request
+
+🧠 Ide liar? Kirim issue, bahas bareng-bareng!
+
+---
+
+# 🧙 Siapa yang Butuh Ini?
+
+-  Pelajar, mahasiswa TI, pentester pemula
+
+-  Hacker etis (yang belum nyoba dosa-dosa digital)
+
+-  Orang iseng yang suka ngulik Python 🤖
+
+---
+
 ## Cara Pakai? Gampang Pol! 😁  
 1. Clone repo ini dulu, bro:
  
@@ -66,6 +98,7 @@ The author takes no responsibility if kamu *nyasar* pakai buat hal-hal ilegal ya
 
 # ⚠️ **PERINGATAN:**  
 Semua aktivitas yang melanggar pasal-pasal di atas dapat dikenakan sanksi pidana sesuai UU ITE.  
+
 Jadi, gunakan ilmu ini untuk edukasi dan hal positif, jangan sampai berurusan dengan hukum, ya!
 ---
 
